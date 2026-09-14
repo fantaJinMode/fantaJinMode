@@ -47,7 +47,7 @@
 ---
 
 <a href="https://github.com/fantaJinMode">
-  <img src="https://github-readme-stats.vercel.app/api?username=fantaJinMode&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="GitHub stats" />
+  <img src="./metrics.svg" alt="GitHub stats" />
 </a>
 
 ---
