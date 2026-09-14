@@ -47,7 +47,7 @@
 ---
 
 <a href="https://github.com/fantaJinMode">
-  <img src="./metrics.svg" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/fantaJinMode/fantaJinMode/metrics/metrics.svg" alt="GitHub stats" />
 </a>
 
 ---
