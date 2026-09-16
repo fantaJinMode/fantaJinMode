@@ -22,7 +22,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Mirrago](https://apps.apple.com/np/app/mirrago-virtual-try-on/id6744049449)** (AR Virtual Try-On) | Upload clothing images and preview outfits in real time. Lead engineer. [Android](https://play.google.com/store/apps/details?id=com.mirrago.app) | React Native · Python · AWS · Firebase |
+| **[Mirrago](https://apps.apple.com/np/app/mirrago-virtual-try-on/id6744049449)** (AR Virtual Try-On) | Upload clothing images and preview outfits in real time. Lead engineer. [Android](https://play.google.com/store/apps/details?id=com.mirrago.app) & [iOS](https://apps.apple.com/np/app/mirrago-virtual-try-on/id6744049449) | React Native · Python · AWS · LLM Integrations · MCP · Firebase |
 | **[LinkForty](https://linkforty.com)** (Attribution & Deep Linking) | Deferred deep linking, real-time analytics, native SDKs for iOS / Android / web, MCP server for AI assistants. | Node · React · TypeScript · PostHog · Stripe |
 | **[AK+ Guard](https://apps.apple.com/us/app/ak-guard/id6749610596)** (Health Companion) | ECG rhythm monitoring via Apple Watch / HealthKit for clinical care programs. | React Native · Node · HealthKit |
 | **Tiered Event Storage** | PostgreSQL hot tier + S3 Parquet cold archive + daily aggregate tables. ~70× lower storage cost, sub-millisecond dashboard queries. | PostgreSQL · S3 · Parquet · Lambda |
