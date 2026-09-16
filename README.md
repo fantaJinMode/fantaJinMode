@@ -18,13 +18,14 @@
 
 ---
 
-### Projects
+### Recent Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Mirrago](https://apps.apple.com/np/app/mirrago-virtual-try-on/id6744049449)** (AR Virtual Try-On) | Upload clothing images and preview outfits in real time. Lead engineer. [Android](https://play.google.com/store/apps/details?id=com.mirrago.app) & [iOS](https://apps.apple.com/np/app/mirrago-virtual-try-on/id6744049449) | React Native · Python · AWS · LLM Integrations · MCP · Firebase |
+| **[Mirrago](https://mirrago.com/)** (AR Virtual Try-On) | Upload clothing images and preview outfits in real time. Lead engineer. [Android](https://play.google.com/store/apps/details?id=com.mirrago.app) & [iOS](https://apps.apple.com/np/app/mirrago-virtual-try-on/id6744049449) | React Native · Python · AWS · LLM Integrations · MCP · Firebase |
 | **[LinkForty](https://linkforty.com)** (Attribution & Deep Linking) | Deferred deep linking, real-time analytics, native SDKs for iOS / Android / web, MCP server for AI assistants. | Node · React · TypeScript · PostHog · Stripe |
 | **[AK+ Guard](https://apps.apple.com/us/app/ak-guard/id6749610596)** (Health Companion) | ECG rhythm monitoring via Apple Watch / HealthKit for clinical care programs. | React Native · Node · HealthKit |
+| **[Marriage 365](https://marriage365.com/)** (Relationship Platform) | Video/podcast/practical resources to strengthen relationships, with AI-assisted UX for navigating misunderstandings. [Android](https://play.google.com/store/apps/details?id=com.marriage365.app&hl=en) & [iOS](https://apps.apple.com/us/app/marriage-365-couples-therapy/id1628739510) | React · React Native · Laravel · Firebase · RevenueCat |
 | **Tiered Event Storage** | PostgreSQL hot tier + S3 Parquet cold archive + daily aggregate tables. ~70× lower storage cost, sub-millisecond dashboard queries. | PostgreSQL · S3 · Parquet · Lambda |
 | **Subscription Platform** | Webhook-driven entitlement sync, idempotent state handling, tiered credit gating. | RevenueCat · FastAPI · DynamoDB |
 
